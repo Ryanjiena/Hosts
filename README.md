@@ -1,5 +1,7 @@
 # Hosts
 
+[![Run](https://github.com/Ryanjiena/Hosts/actions/workflows/run.yml/badge.svg)](https://github.com/Ryanjiena/Hosts/actions/workflows/run.yml)
+
 <!-- hosts start -->
 
 ```
@@ -96,7 +98,6 @@ ExecStart=${current_dir}/${service}.sh
 WantedBy=default.target
 
 EOF
-
 
 systemctl start ${service}
 systemctl enable ${service}
