@@ -54,6 +54,7 @@ domain_arr=(
     "vscode.dev"
     "plugins.jetbrains.com"
     "translate.googleapis.com"
+    "deno.dev"
 )
 
 function insert_hosts() {
