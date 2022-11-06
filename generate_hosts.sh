@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-set -euxo pipefail
+# set -euxo pipefail
 
 current_dir=$(cd -P -- "$(dirname -- "$0")" && pwd -P)
 hosts_file="${current_dir}/hosts"
