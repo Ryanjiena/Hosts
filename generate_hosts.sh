@@ -58,8 +58,10 @@ domain_arr=(
 )
 
 function insert_hosts() {
-    # sed -e "/${hosts_readme_start}/,/${hosts_readme_end}/{//!d;}" -i ${readme_file}
-    # sed -e "/${hosts_readme_start}/r ${hosts_file}" -i ${readme_file}
+    # sed -e "/${hosts_readme_start}/,/${hosts_readme_end}/{//!d;}" \
+    #     -e "/${hosts_readme_start}/r ${hosts_file}" -i ${readme_file}
+    # sed -r '/'"${hosts_readme_start}"'/c\'"${hosts_readme_start}"'\n\n```\n' -i ${readme_file}
+    # sed -r '/'"${hosts_readme_end}"'/c\\n```\n\n'"${hosts_readme_end}"'' -i ${readme_file}
     local hosts=$(cat ${hosts_file} | sed -e ':a' -e '$!{N;ba' -e '}' -e 's/[&/\]/\\&/g; s/\n/\\&/g')
     sed -r '/'"${hosts_readme_start}"'/,/'"${hosts_readme_end}"'/c\'"${hosts_readme_start}"'\n\n```\n'"${hosts}"'\n```\n\n'"${hosts_readme_end}"'' -i ${readme_file}
 }
@@ -68,15 +70,12 @@ function get_ip() {
     if [[ -f "${hosts_file}" ]]; then
         mv "${hosts_file}" "${hosts_file}.bak" -f
     fi
-
     echo -e "# Hosts From: [https://github.com/Ryanjiena/Hosts]\n# Generated: ${DATE}\n" >"${hosts_file}"
-
     for domain in "${domain_arr[@]}"; do
         local ipv4_arr=($(curl -sSkL -A "${user_agent}" "https://ipaddress.com/website/${domain}" | grep -Po "IPv4 Addresses.*?</li>" | grep -Po "<li>[0-9.]{11,}</li>" | awk "-F[<>]" '{print $3}'))
         for ipv4 in "${ipv4_arr[@]}"; do
-            echo "${ipv4} ${domain}" >>"${hosts_file}"
+            echo -e "${ipv4}\t\t${domain}" >>"${hosts_file}"
         done
-
     done
 }
 
