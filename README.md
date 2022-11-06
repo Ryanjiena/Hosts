@@ -6,7 +6,7 @@
 
 ```
 # Hosts From: [https://github.com/Ryanjiena/Hosts]
-# Generated: 2022-11-06 02:41:19
+# Generated: 2022-11-06 10:36:50
 
 140.82.112.25 alive.github.com
 140.82.112.26 live.github.com
@@ -19,11 +19,11 @@
 185.199.108.133 camo.githubusercontent.com
 185.199.108.133 github.map.fastly.net
 151.101.1.194 github.global.ssl.fastly.net
-140.82.114.4 gist.github.com
+140.82.112.3 gist.github.com
 185.199.108.153 github.io
 185.199.109.153 github.io
-140.82.113.4 github.com
-140.82.114.5 api.github.com
+140.82.114.4 github.com
+140.82.113.5 api.github.com
 185.199.108.133 raw.githubusercontent.com
 185.199.108.133 user-images.githubusercontent.com
 185.199.108.133 favicons.githubusercontent.com
@@ -51,7 +51,7 @@
 185.199.108.133 objects.githubusercontent.com
 13.107.213.51 vscode.dev
 108.138.64.7 plugins.jetbrains.com
-172.253.63.95 translate.googleapis.com
+142.251.163.95 translate.googleapis.com
 ```
 
 <!-- hosts end -->
