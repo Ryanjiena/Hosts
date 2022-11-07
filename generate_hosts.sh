@@ -54,6 +54,7 @@ domain_arr=(
     "vscode.dev"
     "plugins.jetbrains.com"
     "translate.googleapis.com"
+    "update.googleapis.com"
     "deno.dev"
 )
 
