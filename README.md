@@ -6,7 +6,7 @@
 
 ```
 # Hosts From: [https://github.com/Ryanjiena/Hosts]
-# Generated: 2022-11-09 21:20:01
+# Generated: 2022-11-10 02:43:48
 
 140.82.114.25		alive.github.com
 140.82.113.25		live.github.com
@@ -19,7 +19,7 @@
 185.199.108.133		camo.githubusercontent.com
 185.199.108.133		github.map.fastly.net
 151.101.1.194		github.global.ssl.fastly.net
-140.82.112.4		gist.github.com
+140.82.112.3		gist.github.com
 185.199.108.153		github.io
 185.199.109.153		github.io
 140.82.114.4		github.com
@@ -34,8 +34,8 @@
 185.199.108.133		avatars1.githubusercontent.com
 185.199.108.133		avatars0.githubusercontent.com
 185.199.108.133		avatars.githubusercontent.com
-140.82.114.9		codeload.github.com
-52.217.34.44		github-cloud.s3.amazonaws.com
+140.82.113.10		codeload.github.com
+52.216.244.116		github-cloud.s3.amazonaws.com
 52.216.249.100		github-com.s3.amazonaws.com
 52.216.111.91		github-production-release-asset-2e65be.s3.amazonaws.com
 52.217.40.92		github-production-user-asset-6210df.s3.amazonaws.com
@@ -44,8 +44,8 @@
 185.199.109.153		githubstatus.com
 140.82.113.18		github.community
 52.224.38.193		github.dev
-140.82.112.22		collector.github.com
-13.107.42.16		pipelines.actions.githubusercontent.com
+140.82.114.22		collector.github.com
+13.107.43.16		pipelines.actions.githubusercontent.com
 185.199.108.133		media.githubusercontent.com
 185.199.108.133		cloud.githubusercontent.com
 185.199.108.133		objects.githubusercontent.com
