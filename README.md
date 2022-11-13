@@ -1,6 +1,6 @@
 # Hosts
 
-[![Run](https://github.com/Ryanjiena/Hosts/actions/workflows/run.yml/badge.svg)](https://github.com/Ryanjiena/Hosts/actions/workflows/run.yml)
+[![Run](https://github.com/Ryanjiena/Hosts/actions/workflows/run.yml/badge.svg)](https://github.com/Ryanjiena/Hosts/actions/workflows/run.yml) [![Visitors](https://komarev.com/ghpvc/?username=ryanjiena&color=brightgreen&style=flat&label=Visitors)](https://github.com/Ryanjiena/Ryanjiena)
 
 <!-- hosts start -->
 
