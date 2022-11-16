@@ -6,7 +6,7 @@
 
 ```
 # Hosts From: [https://github.com/Ryanjiena/Hosts]
-# Generated: 2022-11-16 21:06:20
+# Generated: 2022-11-17 02:41:48
 
 140.82.112.26		alive.github.com
 140.82.113.26		live.github.com
@@ -19,11 +19,11 @@
 185.199.108.133		camo.githubusercontent.com
 185.199.108.133		github.map.fastly.net
 151.101.1.194		github.global.ssl.fastly.net
-140.82.112.3		gist.github.com
+140.82.114.4		gist.github.com
 185.199.108.153		github.io
 185.199.109.153		github.io
-140.82.113.3		github.com
-140.82.114.6		api.github.com
+140.82.112.4		github.com
+140.82.113.6		api.github.com
 185.199.108.133		raw.githubusercontent.com
 185.199.108.133		user-images.githubusercontent.com
 185.199.108.133		favicons.githubusercontent.com
@@ -36,7 +36,7 @@
 185.199.108.133		avatars.githubusercontent.com
 140.82.113.10		codeload.github.com
 52.217.199.145		github-cloud.s3.amazonaws.com
-52.216.249.100		github-com.s3.amazonaws.com
+52.217.131.145		github-com.s3.amazonaws.com
 52.217.40.92		github-production-user-asset-6210df.s3.amazonaws.com
 52.217.140.201		github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153		githubstatus.com
@@ -49,8 +49,8 @@
 185.199.108.133		cloud.githubusercontent.com
 185.199.108.133		objects.githubusercontent.com
 13.107.219.40		vscode.dev
-108.138.64.7		plugins.jetbrains.com
-142.251.163.95		translate.googleapis.com
+99.84.160.29		plugins.jetbrains.com
+142.250.11.95		translate.googleapis.com
 172.253.63.94		update.googleapis.com
 34.120.54.55		deno.dev
 ```
