@@ -6,10 +6,10 @@
 
 ```
 # Hosts From: [https://github.com/Ryanjiena/Hosts]
-# Generated: 2022-11-20 10:27:48
+# Generated: 2022-11-20 14:41:26
 
-140.82.112.25		alive.github.com
-140.82.113.25		live.github.com
+140.82.114.26		alive.github.com
+140.82.113.26		live.github.com
 185.199.108.154		github.githubassets.com
 185.199.109.154		github.githubassets.com
 140.82.114.22		central.github.com
@@ -19,7 +19,7 @@
 185.199.108.133		camo.githubusercontent.com
 185.199.108.133		github.map.fastly.net
 151.101.1.194		github.global.ssl.fastly.net
-140.82.114.3		gist.github.com
+140.82.113.3		gist.github.com
 185.199.108.153		github.io
 185.199.109.153		github.io
 140.82.113.4		github.com
@@ -43,7 +43,7 @@
 185.199.109.153		githubstatus.com
 140.82.114.18		github.community
 52.224.38.193		github.dev
-140.82.114.21		collector.github.com
+140.82.113.22		collector.github.com
 13.107.42.16		pipelines.actions.githubusercontent.com
 185.199.108.133		media.githubusercontent.com
 185.199.108.133		cloud.githubusercontent.com
