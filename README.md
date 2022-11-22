@@ -6,24 +6,24 @@
 
 ```
 # Hosts From: [https://github.com/Ryanjiena/Hosts]
-# Generated: 2022-11-22 21:03:06
+# Generated: 2022-11-23 02:42:20
 
 140.82.114.25		alive.github.com
 140.82.114.26		live.github.com
 185.199.108.154		github.githubassets.com
 185.199.109.154		github.githubassets.com
-140.82.114.22		central.github.com
+140.82.114.21		central.github.com
 185.199.108.133		desktop.githubusercontent.com
 185.199.108.153		assets-cdn.github.com
 185.199.109.153		assets-cdn.github.com
 185.199.108.133		camo.githubusercontent.com
 185.199.108.133		github.map.fastly.net
 151.101.1.194		github.global.ssl.fastly.net
-140.82.114.3		gist.github.com
+140.82.112.4		gist.github.com
 185.199.108.153		github.io
 185.199.109.153		github.io
 140.82.114.3		github.com
-140.82.113.5		api.github.com
+140.82.114.6		api.github.com
 185.199.108.133		raw.githubusercontent.com
 185.199.108.133		user-images.githubusercontent.com
 185.199.108.133		favicons.githubusercontent.com
@@ -34,8 +34,8 @@
 185.199.108.133		avatars1.githubusercontent.com
 185.199.108.133		avatars0.githubusercontent.com
 185.199.108.133		avatars.githubusercontent.com
-140.82.114.10		codeload.github.com
-52.216.50.209		github-cloud.s3.amazonaws.com
+140.82.112.10		codeload.github.com
+52.216.16.88		github-cloud.s3.amazonaws.com
 52.217.131.145		github-com.s3.amazonaws.com
 52.217.140.201		github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153		githubstatus.com
