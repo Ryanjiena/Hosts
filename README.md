@@ -6,7 +6,7 @@
 
 ```
 # Hosts From: [https://github.com/Ryanjiena/Hosts]
-# Generated: 2022-11-23 21:01:25
+# Generated: 2022-11-24 02:39:12
 
 140.82.114.25		alive.github.com
 140.82.114.26		live.github.com
@@ -19,11 +19,11 @@
 185.199.108.133		camo.githubusercontent.com
 185.199.108.133		github.map.fastly.net
 151.101.1.194		github.global.ssl.fastly.net
-140.82.113.4		gist.github.com
+140.82.112.4		gist.github.com
 185.199.108.153		github.io
 185.199.109.153		github.io
-140.82.113.3		github.com
-140.82.114.6		api.github.com
+140.82.112.3		github.com
+140.82.112.6		api.github.com
 185.199.108.133		raw.githubusercontent.com
 185.199.108.133		user-images.githubusercontent.com
 185.199.108.133		favicons.githubusercontent.com
@@ -35,19 +35,19 @@
 185.199.108.133		avatars0.githubusercontent.com
 185.199.108.133		avatars.githubusercontent.com
 140.82.114.10		codeload.github.com
-52.217.131.145		github-com.s3.amazonaws.com
+52.216.24.36		github-com.s3.amazonaws.com
 185.199.108.153		githubstatus.com
 185.199.109.153		githubstatus.com
 140.82.114.18		github.community
 52.224.38.193		github.dev
 140.82.113.22		collector.github.com
-13.107.42.16		pipelines.actions.githubusercontent.com
+13.107.43.16		pipelines.actions.githubusercontent.com
 185.199.108.133		media.githubusercontent.com
 185.199.108.133		cloud.githubusercontent.com
 185.199.108.133		objects.githubusercontent.com
 13.107.213.51		vscode.dev
 18.67.17.29		plugins.jetbrains.com
-173.194.209.95		translate.googleapis.com
+172.253.62.95		translate.googleapis.com
 172.253.63.94		update.googleapis.com
 34.120.54.55		deno.dev
 ```
