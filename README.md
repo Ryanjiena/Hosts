@@ -6,7 +6,7 @@
 
 ```
 # Hosts From: [https://github.com/Ryanjiena/Hosts]
-# Generated: 2022-12-20 09:53:49
+# Generated: 2022-12-20 14:38:11
 
 140.82.113.25		alive.github.com
 140.82.113.26		live.github.com
@@ -24,7 +24,6 @@
 185.199.109.153		github.io
 140.82.114.3		github.com
 140.82.113.5		api.github.com
-185.199.108.133		raw.githubusercontent.com
 185.199.108.133		user-images.githubusercontent.com
 185.199.108.133		favicons.githubusercontent.com
 185.199.108.133		avatars5.githubusercontent.com
@@ -46,7 +45,6 @@
 185.199.108.133		cloud.githubusercontent.com
 185.199.108.133		objects.githubusercontent.com
 13.107.213.40		vscode.dev
-18.160.146.13		plugins.jetbrains.com
 142.251.16.95		translate.googleapis.com
 172.253.63.94		update.googleapis.com
 34.120.54.55		deno.dev
