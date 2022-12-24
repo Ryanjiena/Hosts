@@ -6,7 +6,7 @@
 
 ```
 # Hosts From: [https://github.com/Ryanjiena/Hosts]
-# Generated: 2022-12-24 20:48:24
+# Generated: 2022-12-25 02:34:11
 
 140.82.114.26		alive.github.com
 140.82.112.26		live.github.com
@@ -19,7 +19,7 @@
 185.199.108.133		camo.githubusercontent.com
 185.199.108.133		github.map.fastly.net
 151.101.1.194		github.global.ssl.fastly.net
-140.82.112.3		gist.github.com
+140.82.114.3		gist.github.com
 185.199.108.153		github.io
 185.199.109.153		github.io
 140.82.113.4		github.com
@@ -38,9 +38,10 @@
 52.216.60.185		github-cloud.s3.amazonaws.com
 52.216.99.51		github-production-release-asset-2e65be.s3.amazonaws.com
 52.216.54.49		github-production-user-asset-6210df.s3.amazonaws.com
+52.216.57.73		github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153		githubstatus.com
 185.199.109.153		githubstatus.com
-140.82.114.18		github.community
+140.82.114.17		github.community
 52.224.38.193		github.dev
 140.82.114.21		collector.github.com
 13.107.42.16		pipelines.actions.githubusercontent.com
@@ -48,7 +49,7 @@
 185.199.108.133		cloud.githubusercontent.com
 185.199.108.133		objects.githubusercontent.com
 13.107.213.40		vscode.dev
-18.160.146.13		plugins.jetbrains.com
+99.86.229.38		plugins.jetbrains.com
 142.250.11.95		translate.googleapis.com
 172.253.63.94		update.googleapis.com
 34.120.54.55		deno.dev
