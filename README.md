@@ -6,7 +6,7 @@
 
 ```
 # Hosts From: [https://github.com/Ryanjiena/Hosts]
-# Generated: 2023-01-09 02:34:34
+# Generated: 2023-01-09 09:54:36
 
 140.82.113.26		alive.github.com
 140.82.113.25		live.github.com
@@ -40,6 +40,7 @@
 185.199.109.153		githubstatus.com
 140.82.114.18		github.community
 52.224.38.193		github.dev
+140.82.112.22		collector.github.com
 13.107.42.16		pipelines.actions.githubusercontent.com
 185.199.108.133		media.githubusercontent.com
 185.199.108.133		cloud.githubusercontent.com
