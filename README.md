@@ -6,7 +6,7 @@
 
 ```
 # Hosts From: [https://github.com/Ryanjiena/Hosts]
-# Generated: 2023-08-31 20:47:33\n```
+# Generated: 2023-09-01 02:33:00\n```
 
 <!-- hosts end -->
 
