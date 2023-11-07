@@ -14,7 +14,7 @@ jobs:
     name: Generate Hosts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Git config
         run: |
           git config --local user.email "43134606+Ryanjiena@users.noreply.github.com"
